@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah Jenkins | Confessions of a Future Data Scientist</title>
+    <link>/author/noah-jenkins/</link>
+      <atom:link href="/author/noah-jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noah Jenkins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/noah-jenkins/avatar_hu03952bc486354c1a53325e8015d1b64e_8834_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Noah Jenkins</title>
+      <link>/author/noah-jenkins/</link>
+    </image>
+    
+  </channel>
+</rss>

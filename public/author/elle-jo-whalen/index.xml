@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elle-Jo Whalen | Confessions of a Future Data Scientist</title>
+    <link>/author/elle-jo-whalen/</link>
+      <atom:link href="/author/elle-jo-whalen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elle-Jo Whalen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/elle-jo-whalen/avatar_hud5c43520237d71aecc49bbee4cf42b2d_132249_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Elle-Jo Whalen</title>
+      <link>/author/elle-jo-whalen/</link>
+    </image>
+    
+  </channel>
+</rss>
