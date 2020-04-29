@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: Lauren is a current undergraduate Statistical and Data Science student at Smith College.
-education:
+education: 
   courses:  
   - course: BA in Statistical and Data Sciences
     institution: Smith College
