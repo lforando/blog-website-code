@@ -28,8 +28,6 @@ title: 'A Quick Introduction to Data Science: The Essentials'
   
 ### **Programs and Profiles to Create**
 
-
-
 - 👉 [**Download RStudio**](https://www.r-project.org/)
    - *R Studio*  
 
