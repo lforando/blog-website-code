@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lauren Forando | Confessions of a Future Data Scientist</title>
+    <title>Lauren Forando | Confessions of an Aspiring Data Scientist</title>
     <link>/author/lauren-forando/</link>
       <atom:link href="/author/lauren-forando/index.xml" rel="self" type="application/rss+xml" />
     <description>Lauren Forando</description>
@@ -24,6 +24,52 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Quick Introduction to Data Science</title>
+      <link>/post/blog-post-2/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/blog-post-2/</guid>
+      <description>&lt;h3 id=&#34;programs-and-profiles-to-create&#34;&gt;&lt;strong&gt;Programs and Profiles to Create&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;👉 
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Download RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;R Studio&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;👉 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a Github Account&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;R Studio&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;👉 
+&lt;a href=&#34;https://slack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a Slack Account&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;R Studio&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;websites-and-programs-to-learn-coding-r-python-c-java-etc&#34;&gt;&lt;strong&gt;Websites and programs to learn coding (R, Python, C++, Java, etc.)&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;some-of-my-favorite-amazon-tech-finds&#34;&gt;&lt;strong&gt;Some of My Favorite Amazon Tech Finds&lt;/strong&gt;👩🏼&lt;/h3&gt;
+&lt;p&gt;💻&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Blue Light Glasses&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;** **&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;** **&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;** **&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 </description>
     </item>
     

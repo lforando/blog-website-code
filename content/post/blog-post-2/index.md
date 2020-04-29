@@ -2,7 +2,7 @@
 authors:
 - admin 
 categories:
-date: "2016-04-20T00:00:00Z"
+date: ""
 draft: false  
 featured: false 
 image:
@@ -12,7 +12,7 @@ image:
   preview_only: false 
 lastmod: "2020-05-07T00:00:00Z"
 projects: []
-subtitle: 'Welcome to the World of Data Science :laptop:'
+subtitle: 'Welcome to the World of Data Science 💻'
 summary: An overview of the field of data science, and the basics needed to be successful.
 title: 'A Quick Introduction to Data Science: The Essentials'
 
@@ -27,6 +27,8 @@ title: 'A Quick Introduction to Data Science: The Essentials'
   
   
 ### **Programs and Profiles to Create**
+
+
 
 - 👉 [**Download RStudio**](https://www.r-project.org/)
    - *R Studio*  
@@ -49,7 +51,7 @@ title: 'A Quick Introduction to Data Science: The Essentials'
   
   
   
-### **Some of My Favorite Amazon and Etsy Tech Finds**
+### **Some of My Favorite Tech Finds**
   - 📦 [**Blue Light Glasses**](https://www.amazon.com/TIJN-Blocking-Glasses-Eyeglasses-Computer/dp/B07FYD6ZDC/ref=redir_mobile_desktop?ie=UTF8&aaxitk=yzrsPXZnAQn1VUPK3xIQ6Q&hsa_cr_id=5683626340601&ref_=sb_s_sparkle)
   
   - 📦 [**MacBook Air 13 inch Hard Shell Cover**](https://www.amazon.com/UESWILL-Soft-Touch-2008-2017-Microfibre-Cleaning/dp/B071YC3HZ7/ref=sr_1_2?dchild=1&keywords=laptop+covers&qid=1588169566&sr=8-2)
@@ -79,7 +81,7 @@ title: 'A Quick Introduction to Data Science: The Essentials'
   - 📦 [**Data Hangover Coffee Mug**](https://www.etsy.com/listing/717297993/data-analyst-mug-data-science-data-nerd?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=data+science+mug&ref=sr_gallery-1-3&organic_search_click=1&pro=1&frs=1)
   
   
-### **Fun Redbubble Data Science and Tech Stickers**🤩
+### **Redbubble Data Science and Tech Stickers**🤩
 ##### *RStudio*
   - [**Tidyverse**](https://www.redbubble.com/i/sticker/R-Tydiverse-Logo-by-James9834/33554116.EJUG5)
   - [**R-Ladies**](https://www.redbubble.com/i/sticker/R-Ladies-Logo-by-James9834/33595970.EJUG5)
@@ -110,4 +112,5 @@ title: 'A Quick Introduction to Data Science: The Essentials'
   - [**Hugo Academic**](https://www.redbubble.com/i/sticker/Academic-by-neutreno/34387919.EJUG5)
   - [**Slack - Cut Me Some (Slack Icon)**](https://www.redbubble.com/i/sticker/Cut-me-some-Slack-by-ienjoydogs/28922303.EJUG5)
   - [**Github**](https://www.redbubble.com/i/sticker/GitHub-The-world-s-leading-software-development-platform-by-MikelEiza/43019947.EJUG5)
+  
 ---
