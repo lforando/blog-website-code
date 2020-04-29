@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- admin 
 categories:
 date: "2016-04-20T00:00:00Z"
 draft: false  
@@ -29,18 +29,18 @@ title: 'A Quick Introduction to Data Science: The Essentials'
 ### **Programs and Profiles to Create**
 
 - 👉 [**Download RStudio**](https://www.r-project.org/)
-   - *R Studio*
+   - *R Studio*  
 
 
 - 👉 [**Create a Github Account**](https://github.com/)
-   - *R Studio*
+   - *R Studio*  
   
   
 - 👉 [**Create a Slack Account**](https://slack.com/)
-   - *R Studio*
+   - *R Studio*  
    
 - 👉 [**Create a Stack Overflow Account**](https://stackoverflow.com/)
-   - *R Studio*  
+   - *R Studio*    
   
   
   
