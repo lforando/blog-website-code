@@ -13,4 +13,3 @@ subtitle = ""
   <iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-

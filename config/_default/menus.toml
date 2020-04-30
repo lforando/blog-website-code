@@ -6,13 +6,13 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "post-landing/"
   weight = 10
 
 
 [[main]]
   name = "Videos"
-  url = "#videos"
+  url = "video-landing/"
   weight = 20
   
   
@@ -31,10 +31,10 @@
   url = "#contact"
   weight = 40
   
-[[main]]
-  name = "My Widget Page"  # Title of the link.
-  url = "landing/"  # Widget Page folder name.
-  weight = 50  # Position of the link in the navigation bar.
+#[[main]]
+  #name = "My Widget Page"  # Title of the link.
+  #url = "landing/"  # Widget Page folder name.
+  #weight = 50  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
