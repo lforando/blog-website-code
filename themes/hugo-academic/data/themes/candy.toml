@@ -5,10 +5,10 @@ name = "Candy"
 light = true
 
 # Primary
-primary = "rgb(240, 167, 159)"
+primary = "#D49294"
 
 # Menu
-menu_primary = "rgb(247, 247, 247)"
+menu_primary = "#D8D1D1"
 menu_text = "#000"
 menu_text_active = "rgb(25, 25, 25)"
 menu_title = "#000"
