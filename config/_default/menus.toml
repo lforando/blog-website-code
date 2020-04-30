@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Videos"
-  url = "video/"
+  url = "video_landing/"
   weight = 20
   
   
