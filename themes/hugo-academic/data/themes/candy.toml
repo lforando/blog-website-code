@@ -5,7 +5,7 @@ name = "Candy"
 light = true
 
 # Primary
-primary = "#D49294"
+primary = "#769DC3"
 
 # Menu
 menu_primary = "#D8D1D1"
@@ -14,8 +14,8 @@ menu_text_active = "rgb(25, 25, 25)"
 menu_title = "#000"
 
 # Home sections
-home_section_odd = "#769DC3"
-home_section_even = "#9BB3C9"
+home_section_odd = "#FFF"
+home_section_even = "rgb(234, 242, 250)"
 
 #B6A8A7
 #769DC3
