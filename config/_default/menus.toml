@@ -6,13 +6,13 @@
 
 [[main]]
   name = "Posts"
-  url = "post-landing/"
+  url = "landing/"
   weight = 10
 
 
 [[main]]
   name = "Videos"
-  url = "video-landing/"
+  url = "video/"
   weight = 20
   
   
