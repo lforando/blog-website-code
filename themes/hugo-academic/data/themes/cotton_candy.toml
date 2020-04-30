@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Cotton-Candy"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(240, 167, 159)"
+
+# Menu
+menu_primary = "rgb(117, 114, 114)"
+menu_text = "#000"
+menu_text_active = "rgb(25, 25, 25)"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(204, 223, 241)"
