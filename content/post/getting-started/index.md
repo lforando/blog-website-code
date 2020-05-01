@@ -13,7 +13,7 @@ image:
 lastmod: "2020-05-07T00:00:00Z"
 projects: []
 subtitle: 'Welcome to the World of Data Science :laptop:'
-summary: An overview of the field of data science, and the basics needed to be successful.
+summary: 
 title: 'Launch of "Confessions of an Aspiring Data Scientist"'
 ---
 
