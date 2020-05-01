@@ -1,5 +1,5 @@
 +++
-widget = "empty"  
+widget = "blank"  
 headless = true  
 active = true  
 weight = 60 
