@@ -33,3 +33,5 @@ Happy coding! ☺️👩🏼
 💻💻
 
 
+[Check out my coding playlist **here** 😉🎶](https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=2Mihnuj9S32t2nVTLADobg) 
+
