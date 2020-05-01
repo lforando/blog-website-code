@@ -31,7 +31,7 @@ On this site you will find:
 
 I hope you enjoy this website and find it informative and beneficial. If there is a specific topic you would like to be covered, submit a blog post, ask a question, or leave a comment in general, please feel free to contact us.
 
-Happy coding! 🤓
+Happy coding! 🤓 
 
 
 Check out this coding playlist [**here**](https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=2Mihnuj9S32t2nVTLADobg)🎶

@@ -6,7 +6,7 @@ date: ""
 draft: false  
 featured: false 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/1K6IQsQbizI)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bmmcfZqSjBU)
   focal_point: ""
   placement: 2
   preview_only: false 
