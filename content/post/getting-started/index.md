@@ -12,8 +12,8 @@ image:
   preview_only: false 
 lastmod: "2020-05-07T00:00:00Z"
 projects: []
-subtitle: 'Welcome to the World of Data Science 💻'
-summary:  
+subtitle: 'A brief introduction'
+summary:  Blog Post #1
 title: 'Launch of "Confessions of an Aspiring Data Scientist"'
 ---
 
