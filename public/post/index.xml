@@ -5,17 +5,58 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3c9c88db348f1da8ae97f561f77f47de_20305_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
     
     <item>
-      <title>A Quick Introduction to Data Science</title>
+      <title>Launch of &#34;Confessions of an Aspiring Data Scientist&#34;</title>
+      <link>/post/intro-p1/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/intro-p1/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Welcome to &amp;ldquo;Confessions of an Aspiring Data Scientist.&amp;rdquo; I am so excited to share this project with you. I originally entered college intending to be pre-med. As I took more classes, I realized that I was more interested in research, specifically in data and psychological topics. At the end of my freshman year I was asked to join a research team for the Smith College School for Social Work. I worked on this project for a year and a half. At the same time I was working in this lab, I took my first statistics course. It was here that I fell in love with statistics. Something about the pureness of numbers and universality of their meaning intrigued me. Luckily for me, my school offers a major in Statistical and Data Sciences. I decided to declare this as my major and dive headfirst in math and computer science courses. I created this platform with the vision of a place where college students and individuals interested in data science could come and gain some insight. Data science is a hot topic word but what is it? This question is the main reason I decided to start this project.&lt;/p&gt;
+&lt;p&gt;On this site you will find:&lt;/p&gt;
+&lt;p&gt;⭐ links to podcasts
+⭐ interviews with data scientists, engineers, mathematicians, and computer scientists
+⭐ blog posts relating to the many application areas data science can be applied to
+⭐ advice from current and recently graduated college students in the field
+⭐ videos covering content in statistics, R code, and much more&lt;/p&gt;
+&lt;p&gt;I hope you enjoy this website and find it informative and beneficial. If there is a specific topic you would like to be covered, submit a blog post, ask a question, or leave a comment in general, please feel free to contact us.&lt;/p&gt;
+&lt;p&gt;Happy coding! 🤓&lt;/p&gt;
+&lt;p&gt;Check out this coding playlist 
+&lt;a href=&#34;https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=2Mihnuj9S32t2nVTLADobg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; 🎶&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Launch of &#34;Confessions of an Aspiring Data Scientist&#34;</title>
+      <link>/post/programming-p3/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/programming-p3/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Welcome to &amp;ldquo;Confessions of an Aspiring Data Scientist.&amp;rdquo; I am so excited to share this project with you. I originally entered college intending to be pre-med. As I took more classes, I realized that I was more interested in research, specifically in data and psychological topics. At the end of my freshman year I was asked to join a research team for the Smith College School of Social Work. I worked on this project for a year and a half. At the same time, I was working in this lab, I also began taking more statistics courses. It was here that I fell in love with statistics. Something about the pureness of numbers and universality of their meaning intrigued me. Luckily for me, my school offers a major in Statistical and Data Sciences. I decided to declare this as my major and dive headfirst in math and computer science courses. I created this platform with the vision of a place where college students and individuals interested in data science could come and gain some insight. Data science is a hot topic word but what is it? This question is the main reason I decided to start this project. On this site you will find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;links to podcasts&lt;/li&gt;
+&lt;li&gt;interviews with data scientists, engineers, mathematicians, and computer scientists&lt;/li&gt;
+&lt;li&gt;blog posts relating to the many application areas data science can be applied to&lt;/li&gt;
+&lt;li&gt;advice from current and recently graduated college students in the field&lt;/li&gt;
+&lt;li&gt;videos covering content in statistics, R code, and much more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I hope you enjoy this website and find it informative and beneficial. If there is a specific topic you would like to be covered, submit a blog post, ask a question, or leave a comment in general, please feel free to contact us.&lt;/p&gt;
+&lt;p&gt;Happy coding! 🤓&lt;/p&gt;
+&lt;p&gt;Check out my coding playlist 
+&lt;a href=&#34;https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=2Mihnuj9S32t2nVTLADobg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;🎶&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Quick Introduction to Data Science: The Essentials</title>
       <link>/post/blog-post-2/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <guid>/post/blog-post-2/</guid>
       <description>&lt;h3 id=&#34;programs-and-profiles-to-create&#34;&gt;&lt;strong&gt;Programs and Profiles to Create&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -40,37 +81,132 @@
 &lt;li&gt;&lt;em&gt;R Studio&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;websites-and-programs-to-learn-coding-r-python-c-java-etc&#34;&gt;&lt;strong&gt;Websites and programs to learn coding (R, Python, C++, Java, etc.)&lt;/strong&gt;&lt;/h3&gt;
-&lt;h3 id=&#34;some-of-my-favorite-amazon-tech-finds&#34;&gt;&lt;strong&gt;Some of My Favorite Amazon Tech Finds&lt;/strong&gt;👩🏼&lt;/h3&gt;
-&lt;p&gt;💻&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;👉 
+&lt;a href=&#34;https://stackoverflow.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a Stack Overflow Account&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Blue Light Glasses&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;** **&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;** **&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;** **&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;R Studio&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;websites-to-learn-and-practice-coding-r-python-c-java-etc&#34;&gt;&lt;strong&gt;Websites to Learn and Practice Coding (R, Python, C++, Java, etc.)&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;some-of-my-favorite-tech-finds&#34;&gt;&lt;strong&gt;Some of My Favorite Tech Finds&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/TIJN-Blocking-Glasses-Eyeglasses-Computer/dp/B07FYD6ZDC/ref=redir_mobile_desktop?ie=UTF8&amp;amp;aaxitk=yzrsPXZnAQn1VUPK3xIQ6Q&amp;amp;hsa_cr_id=5683626340601&amp;amp;ref_=sb_s_sparkle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Blue Light Glasses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/UESWILL-Soft-Touch-2008-2017-Microfibre-Cleaning/dp/B071YC3HZ7/ref=sr_1_2?dchild=1&amp;amp;keywords=laptop&amp;#43;covers&amp;amp;qid=1588169566&amp;amp;sr=8-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MacBook Air 13 inch Hard Shell Cover&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/MOSISO-Keyboard-Silicone-Compatible-MacBook/dp/B01GJO99DY/ref=sr_1_1_sspa?dchild=1&amp;amp;keywords=keyboard&amp;#43;covers&amp;#43;macbook&amp;#43;air&amp;amp;qid=1588169680&amp;amp;sr=8-1-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUUpEWFNRNUhCTEhLJmVuY3J5cHRlZElkPUEwNDkyMTM5Mk9BT1AyUFhPQ0RFTSZlbmNyeXB0ZWRBZElkPUExMDE2NjU4MkpHTVpQTDA5UFhUUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Macbook Air Keyboard Cover&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/Anker-PowerPort-Overload-Protection-Ultra-Compact/dp/B07D25RSWX/ref=sr_1_4?crid=3IIO7563TTA6X&amp;amp;dchild=1&amp;amp;keywords=power&amp;#43;strip&amp;#43;with&amp;#43;usb&amp;#43;ports&amp;amp;qid=1588169446&amp;amp;sprefix=power&amp;#43;strip&amp;#43;with%2Caps%2C221&amp;amp;sr=8-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Power Strip with USB Ports&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/Bose-QuietComfort-Wireless-Headphones-Cancelling/dp/B0756CYWWD/ref=sr_1_3?dchild=1&amp;amp;keywords=Bose&amp;#43;Wireless&amp;#43;Headphones&amp;amp;qid=1588169710&amp;amp;sr=8-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bose Noise-Cancelling Wireless Headphones&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/Dell-SE2419Hx-23-8-1920x1080-Monitor/dp/B07HKV5RLG/ref=sr_1_3?dchild=1&amp;amp;keywords=dell&amp;#43;monitor&amp;amp;qid=1588169746&amp;amp;sr=8-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Dell Monitor&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/WHOOSH-Screen-Cleaner-Kit-Smartphones/dp/B07BVZ4TN7/ref=sr_1_1_sspa?crid=39NCWTS0FD3SL&amp;amp;dchild=1&amp;amp;keywords=whoosh&amp;#43;screen&amp;#43;cleaner&amp;#43;kit&amp;amp;qid=1588169773&amp;amp;sprefix=whoosh&amp;#43;screen%2Caps%2C161&amp;amp;sr=8-1-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNUFPWUlQVDFQUElDJmVuY3J5cHRlZElkPUEwNzczNTAwMkpZUFFVU1FRNlZaSCZlbmNyeXB0ZWRBZElkPUEwMzA1MzQ3MzVOVUtaWkMxOVM5SSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;WHOOSH Screen Cleaner Kit&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/SYOSIN-Keyboard-Universal-Cleaning-Calculators/dp/B07R4LPW37/ref=sr_1_8?dchild=1&amp;amp;keywords=keyboard&amp;#43;cleaner&amp;amp;qid=1588169803&amp;amp;sr=8-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SYOSIN Keyboard Cleaner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/Ergonomic-Compatible-Notebook-Soundance-LS1/dp/B07D74DT3B/ref=sr_1_2?crid=29FS7TFU0QY7P&amp;amp;dchild=1&amp;amp;keywords=elevator&amp;#43;stand&amp;#43;laptop&amp;amp;qid=1588169879&amp;amp;sprefix=Elevator&amp;#43;stand&amp;#43;%2Caps%2C157&amp;amp;sr=8-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Elevator Stand for Laptops&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/Laptop-CloudValley-Ultra-Thin-MacBook-Protect/dp/B079MCPJGH/ref=sr_1_1_sspa?dchild=1&amp;amp;keywords=web&amp;#43;camera&amp;#43;cover&amp;amp;qid=1588169898&amp;amp;sr=8-1-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMlpMN01XVzhYSjlHJmVuY3J5cHRlZElkPUEwMzUxNjc3MVVXVUQ5MVRMNlZGNCZlbmNyeXB0ZWRBZElkPUEwMjE1ODY4MlNWMzNFMUdNWEZMVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Web Camera Cover&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/Headphone-6amLifestyle-Headphones-Adjustable-Black%EF%BC%88Patented%EF%BC%89/dp/B07TH8XWM5/ref=sr_1_4?dchild=1&amp;amp;keywords=headphone&amp;#43;handset&amp;#43;holder&amp;amp;qid=1588169924&amp;amp;sr=8-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Headphone Headset Stand Holder&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.amazon.com/iMangoo-Shockproof-Protective-Resistant-Organizer/dp/B01M66RT22/ref=sr_1_2?dchild=1&amp;amp;keywords=shockproof&amp;#43;Cord&amp;#43;Carring&amp;#43;Case&amp;amp;qid=1588169964&amp;amp;sr=8-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Shockproof Cord Carrying Case&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.etsy.com/listing/610550859/talk-data-to-me-unisex-shirt-data?ga_order=most_relevant&amp;amp;ga_search_type=all&amp;amp;ga_view_type=gallery&amp;amp;ga_search_query=talk&amp;#43;data&amp;#43;to&amp;#43;me&amp;amp;ref=sr_gallery-1-2&amp;amp;organic_search_click=1&amp;amp;col=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Talk Data to Me Shirt&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📦 
+&lt;a href=&#34;https://www.etsy.com/listing/717297993/data-analyst-mug-data-science-data-nerd?ga_order=most_relevant&amp;amp;ga_search_type=all&amp;amp;ga_view_type=gallery&amp;amp;ga_search_query=data&amp;#43;science&amp;#43;mug&amp;amp;ref=sr_gallery-1-3&amp;amp;organic_search_click=1&amp;amp;pro=1&amp;amp;frs=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Data Hangover Coffee Mug&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;redbubble-data-science-and-tech-stickers&#34;&gt;&lt;strong&gt;Redbubble Data Science and Tech Stickers&lt;/strong&gt;🤩&lt;/h3&gt;
+&lt;h5 id=&#34;rstudio&#34;&gt;&lt;em&gt;RStudio&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/R-Tydiverse-Logo-by-James9834/33554116.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Tidyverse&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/R-Ladies-Logo-by-James9834/33595970.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;R-Ladies&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/R-Language-Logo-by-James9834/30972015.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;R Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/R-Language-Logo-by-James9834/30972015.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ggplot&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;programs&#34;&gt;&lt;em&gt;Programs&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Python-by-curro/20830471.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Java-Logo-by-James9834/30327212.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/C-by-gaman/22250690.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;artificial-intelligence-and-machine-learning&#34;&gt;&lt;em&gt;Artificial Intelligence and Machine Learning&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;ttps://www.redbubble.com/i/sticker/AI-Artificial-Intelligence-by-coderman/29055960.EJUG5&#34;&gt;&lt;strong&gt;Artificial Intelligence Brain&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/machine-learning-by-FunnyGrief/28872465.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Machine Learning - Robot Reading&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/I-model-for-a-living-by-ohellooo/31024131.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;I Model for a Living&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;big-data&#34;&gt;&lt;em&gt;Big Data&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/data-science-opinion-by-FunnyGrief/37060800.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Data &amp;gt; Opinion&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/In-Data-We-Trust-Data-Scientist-Gift-by-yeoys/36469916.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;In Data We Trust&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Data-Wrangler-Orange-by-munchgifts/30614726.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;data wrangler.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;statistics&#34;&gt;&lt;em&gt;Statistics&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Normal-Paranormal-Distribution-by-Dreambase/19202537.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Normal Paranormal Distribution&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Correlation-is-not-Causation-by-depresident/20380569.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Correlation =/ Causation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Statistics-Is-My-Thing-by-supernova23/10939750.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Statistics is My Thing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;tech-miscellaneous&#34;&gt;&lt;em&gt;Tech Miscellaneous&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Academic-by-neutreno/34387919.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/Cut-me-some-Slack-by-ienjoydogs/28922303.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Slack - Cut Me Some (Slack Icon)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/i/sticker/GitHub-The-world-s-leading-software-development-platform-by-MikelEiza/43019947.EJUG5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Quick Introduction to Data Science</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

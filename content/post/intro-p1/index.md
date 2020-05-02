@@ -12,8 +12,8 @@ image:
   preview_only: false 
 lastmod: "2020-05-07T00:00:00Z"
 projects: []
-subtitle: 'A brief introduction'
-summary:  Blog Post #1
+subtitle: 'Welcome to my blog!'
+summary:  
 title: 'Launch of "Confessions of an Aspiring Data Scientist"'
 ---
 
@@ -34,5 +34,5 @@ I hope you enjoy this website and find it informative and beneficial. If there i
 Happy coding! 🤓 
 
 
-Check out this coding playlist [**here**](https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=2Mihnuj9S32t2nVTLADobg)🎶
+Check out this coding playlist [**here**](https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=2Mihnuj9S32t2nVTLADobg) 🎶
 
