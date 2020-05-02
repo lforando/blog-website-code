@@ -3,7 +3,7 @@ authors:
 - admin 
 categories:
 date: ""
-draft: false  
+draft: true  
 featured: false 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bmmcfZqSjBU)'
@@ -13,7 +13,7 @@ image:
 lastmod: "2020-05-07T00:00:00Z"
 projects: []
 subtitle: 'Welcome to the World of Data Science 💻'
-summary: An overview of the field of data science, and the basics needed to be successful.
+summary: An overview of the basics needed to be successful in data science.
 title: 'A Quick Introduction to Data Science: The Essentials'
 
 # Featured image
@@ -29,24 +29,30 @@ title: 'A Quick Introduction to Data Science: The Essentials'
 ### **Programs and Profiles to Create**
 
 - 👉 [**Download RStudio**](https://www.r-project.org/)
-   - *R Studio*  
+   - *R is a language and environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques, and is highly extensible.*  
 
 
 - 👉 [**Create a Github Account**](https://github.com/)
-   - *R Studio*  
+   - *GitHub, Inc. is a United States-based global company that provides hosting for software development version control using Git.*  
   
   
 - 👉 [**Create a Slack Account**](https://slack.com/)
    - *R Studio*  
+   - *Check out the free demo* [**here**](https://slackdemo.com/?vst=.cvvcbiusdi56lmsa6ufdbqse9)
+   
    
 - 👉 [**Create a Stack Overflow Account**](https://stackoverflow.com/)
-   - *R Studio*    
-  
+   - *Stack Overflow is a question and answer site for professional and enthusiast programmers.The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Reddit.*
+
   
   
 ### **Websites to Learn and Practice Coding (R, Python, C++, Java, etc.)**
-  
-  
+- 👉 [**Data Camp**](https://www.datacamp.com/)
+
+- 👉 [**Coursera**](https://www.coursera.org/browse/data-science)
+
+- 👉 [**General Assembly**](https://generalassemb.ly/education/data-science-immersive/boston?ga_campaign=immersive-remote&ga_variation=dsi-tile)
+ 
   
   
 ### **Some of My Favorite Tech Finds**
@@ -77,38 +83,5 @@ title: 'A Quick Introduction to Data Science: The Essentials'
   - 📦 [**Talk Data to Me Shirt**](https://www.etsy.com/listing/610550859/talk-data-to-me-unisex-shirt-data?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=talk+data+to+me&ref=sr_gallery-1-2&organic_search_click=1&col=1)
   
   - 📦 [**Data Hangover Coffee Mug**](https://www.etsy.com/listing/717297993/data-analyst-mug-data-science-data-nerd?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=data+science+mug&ref=sr_gallery-1-3&organic_search_click=1&pro=1&frs=1)
-  
-  
-### **Redbubble Data Science and Tech Stickers**🤩
-##### *RStudio*
-  - [**Tidyverse**](https://www.redbubble.com/i/sticker/R-Tydiverse-Logo-by-James9834/33554116.EJUG5)
-  - [**R-Ladies**](https://www.redbubble.com/i/sticker/R-Ladies-Logo-by-James9834/33595970.EJUG5)
-  - [**R Logo**](https://www.redbubble.com/i/sticker/R-Language-Logo-by-James9834/30972015.EJUG5)
-  - [**ggplot**](https://www.redbubble.com/i/sticker/R-Language-Logo-by-James9834/30972015.EJUG5)
-  
-##### *Programs* 
-  - [**Python**](https://www.redbubble.com/i/sticker/Python-by-curro/20830471.EJUG5)
-  - [**Java**](https://www.redbubble.com/i/sticker/Java-Logo-by-James9834/30327212.EJUG5)
-  - [**C++**](https://www.redbubble.com/i/sticker/C-by-gaman/22250690.EJUG5)
-
-##### *Artificial Intelligence and Machine Learning*
-  - [**Artificial Intelligence Brain**](ttps://www.redbubble.com/i/sticker/AI-Artificial-Intelligence-by-coderman/29055960.EJUG5)
-  - [**Machine Learning - Robot Reading**](https://www.redbubble.com/i/sticker/machine-learning-by-FunnyGrief/28872465.EJUG5)
-  - [**I Model for a Living**](https://www.redbubble.com/i/sticker/I-model-for-a-living-by-ohellooo/31024131.EJUG5)
-
-##### *Big Data*
-  - [**Data > Opinion**](https://www.redbubble.com/i/sticker/data-science-opinion-by-FunnyGrief/37060800.EJUG5)
-  - [**In Data We Trust**](https://www.redbubble.com/i/sticker/In-Data-We-Trust-Data-Scientist-Gift-by-yeoys/36469916.EJUG5)
-  - [**data wrangler.**](https://www.redbubble.com/i/sticker/Data-Wrangler-Orange-by-munchgifts/30614726.EJUG5)
-      
-##### *Statistics*
-  - [**Normal Paranormal Distribution**](https://www.redbubble.com/i/sticker/Normal-Paranormal-Distribution-by-Dreambase/19202537.EJUG5)
-  - [**Correlation =/ Causation**](https://www.redbubble.com/i/sticker/Correlation-is-not-Causation-by-depresident/20380569.EJUG5)
-  - [**Statistics is My Thing**](https://www.redbubble.com/i/sticker/Statistics-Is-My-Thing-by-supernova23/10939750.EJUG5)
-
-##### *Tech Miscellaneous*
-  - [**Hugo Academic**](https://www.redbubble.com/i/sticker/Academic-by-neutreno/34387919.EJUG5)
-  - [**Slack - Cut Me Some (Slack Icon)**](https://www.redbubble.com/i/sticker/Cut-me-some-Slack-by-ienjoydogs/28922303.EJUG5)
-  - [**Github**](https://www.redbubble.com/i/sticker/GitHub-The-world-s-leading-software-development-platform-by-MikelEiza/43019947.EJUG5)
   
 ---

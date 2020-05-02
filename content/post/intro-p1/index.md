@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-date: "2020-04-29T00:00:00Z"
+date: " "
 draft: false  
 featured: false 
 image:

@@ -7,7 +7,7 @@ education:
   - course: MS in Applied Mathematics
     institution: University of Connecticut
     year: 2018
-email: ""
+email: "ndjenkins0@gmail.com"
 interests:
 - 
 - 
@@ -23,9 +23,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/noahjenkins/
-- icon: github
+- icon: instagram
   icon_pack: fab
-  link: 
+  link: https://www.instagram.com/noahdjenkins/?hl=en
 superuser: false
 title: Noah Jenkins
 user_groups:
