@@ -19,7 +19,7 @@ role: Staff Engineer
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: "malito:ndjenkins0@gmail.com"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/noahjenkins/
