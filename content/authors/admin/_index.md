@@ -7,7 +7,7 @@ education:
   - course: BA in Statistical and Data Sciences
     institution: Smith College
     year: 2021
-email: "lforando@smith.edu"
+email: "confessions.data.science@gmail.com"
 interests:
 - Machine Learning
 - Domain Bias
