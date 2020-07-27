@@ -14,12 +14,12 @@ lastmod: "2020-05-07T00:00:00Z"
 projects: []
 subtitle: 'Welcome to my blog!'
 summary:  
-title: 'Launch of "Confessions of an Aspiring Data Scientist"'
+title: 'Short Introduction'
 ---
 
 # **Hello!**
 
-Welcome to "Confessions of an Aspiring Data Scientist." I am so excited to share this project with you. I originally entered college intending to be pre-med. As I took more classes, I realized that I was more interested in research, specifically in data and psychological topics. At the end of my freshman year I was asked to join a research team for the Smith College School for Social Work. I worked on this project for a year and a half. At the same time I was working in this lab, I took my first statistics course. It was here that I fell in love with statistics. Something about the pureness of numbers and universality of their meaning intrigued me. Luckily for me, my school offers a major in Statistical and Data Sciences. I decided to declare this as my major and dive headfirst in math and computer science courses. I created this platform with the vision of a place where college students and individuals interested in data science could come and gain some insight. Data science is a hot topic word but what is it? This question is the main reason I decided to start this project. 
+Welcome to my website! I am so excited to share this project with you. I originally entered college intending to be pre-med. As I took more classes, I realized that I was more interested in research, specifically in data and psychological topics. At the end of my freshman year I was asked to join a research team for the Smith College School for Social Work. I worked on this project for a year and a half. At the same time I was working in this lab, I took my first statistics course. It was here that I fell in love with statistics. Something about the pureness of numbers and universality of their meaning intrigued me. Luckily for me, my school offers a major in Statistical and Data Sciences. I decided to declare this as my major and dive headfirst in math and computer science courses. I created this platform with the vision of a place where college students and individuals interested in data science could come and gain some insight. Data science is a hot topic word but what is it? This question is the main reason I decided to start this project. 
 
 On this site you will find:
 
