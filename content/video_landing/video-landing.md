@@ -9,7 +9,7 @@ subtitle = ""
 +++
  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/2RJtDc5HjDQ" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/2RJtDc5HjDQ" style="position: absolute; top: 1; left: 0; width: 30%; height: 30%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
