@@ -18,31 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
-  company = "Smith College School for Social Work"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Massachusetts"
-  date_start = "2018-01-05"
-  date_end = "2019-30-09"
-  description = """ One of two undergraduate research assistants responsible for biological data research, collection, and analysis for the Smith College School for Social Work."""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Smith College"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Massachusetts"
-  date_start = "2019-01-05"
-  date_end = ""
-  description = """Research assistant in Alicia Grubb's computer science lab. Dr. Grubb's lab is currently working on a project relating to the thought process and planning behind computer science programs."""
-  
-[[experience]]
-  title = "WPS Summer Analyst"
-  company = "MassMutual"
-  company_url = ""
-  location = "Massachusetts"
-  date_start = "2020-08-06"
-  date_end = "2020-07-08"
-  description = """Worked with the Pricing and Profitability Team and Organizational Health and Business Intelligence Team on a multitude of projects."""
-  
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
