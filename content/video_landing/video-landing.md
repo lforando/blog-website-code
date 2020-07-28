@@ -9,11 +9,11 @@ subtitle = ""
 +++
  
 <div style="float:left;width:auto;margin-right:14px;”>
-  <iframe src="https://www.youtube.com/embed/2RJtDc5HjDQ"> </iframe>
+  <iframe src="https://www.youtube.com/embed/2RJtDc5HjDQ" style="width: 50%; height: 50%;"> </iframe>
 </div>
 
 <div style="float:left;width:auto;”>
-  <iframe src="https://www.youtube.com/embed/C9_jVWhoJW0" style="clear:both;height:1em;”> </iframe>
+  <iframe src="https://www.youtube.com/embed/C9_jVWhoJW0" style="width: 50%; height: 50%;"> </iframe>
 </div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
