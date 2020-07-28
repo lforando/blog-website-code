@@ -12,7 +12,7 @@ subtitle = ""
 	<iframe frameborder="0" id="youtube" src="https://www.youtube.com/embed/2RJtDc5HjDQ" title="YouTube video player" width="430" height="241" class="graphic"></iframe>
 </div>
 
-<div style="float:left;">
+<div style="float:right;">
 	<iframe frameborder="0" id="youtube" src="https://www.youtube.com/embed/C9_jVWhoJW0" title="YouTube video player" width="430" height="241" class="graphic"></iframe>
 </div>
 
