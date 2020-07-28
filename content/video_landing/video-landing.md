@@ -7,15 +7,15 @@ weight = 70  # Order that this section will appear.
 title = "Videos"
 subtitle = ""
 +++
- 
-<div style="float:left;width:auto;margin-right:14px;”>
-  <iframe src="https://www.youtube.com/embed/2RJtDc5HjDQ" style="width: 50%; height: 50%;"> </iframe>
+                                                                                          
+<div style="float:left;">
+	<iframe frameborder="0" id="youtube" src="https://www.youtube.com/embed/2RJtDc5HjDQ" title="YouTube video player" width="430" height="241" class="graphic"></iframe>
 </div>
 
-<div style="float:left;width:auto;”>
-  <iframe src="https://www.youtube.com/embed/C9_jVWhoJW0" style="width: 50%; height: 50%;"> </iframe>
+<div style="float:left;">
+	<iframe frameborder="0" id="youtube" src="https://www.youtube.com/embed/C9_jVWhoJW0" title="YouTube video player" width="430" height="241" class="graphic"></iframe>
 </div>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/1d8nbIJsIXI" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+<div style="float:left;">
+	<iframe frameborder="0" id="youtube" src="https://www.youtube.com/embed/1d8nbIJsIXI" title="YouTube video player" width="430" height="241" class="graphic"></iframe>
 </div>
