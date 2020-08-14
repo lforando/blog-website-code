@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "WPS Summer Analyst"
+  company = "MassMutual"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Connecticut"
+  date_start = "2020-06-08"
+  date_end = "2020-08-07"
   description = """
-  Responsibilities include:
+  One of three summer interns working within Workplace Solutions at MassMutual. During my 9-week internship I contributed to three separate projects:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Benchmark Pricing Revision
+  * JIRA, SCRUM, AGILE Enablement BA Process Flow Mapping
+  * People Anlaytics
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Statistics and RStudio Tutor"
+  company = "Wyzant"
+  company_url = "https://www.wyzant.com/Tutors/StatsByLauren"
+  location = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = """Actively work with students of all ages on areas of statistics, R coding, and research papers."""
 
 +++
