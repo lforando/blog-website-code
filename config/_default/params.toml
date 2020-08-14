@@ -105,8 +105,9 @@ email = "confessions.data.science@gmail.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:lforando"},
-  {icon = "linkedin", icon_pack = "fab", name = "Find me on Linked-In", link = "https://www.linkedin.com/in/lauren-forando"},
+  {icon = "linkedin", icon_pack = "fab", name = "Find me on LinkedIn", link = "https://www.linkedin.com/in/lauren-forando"},
   {icon = "chalkboard-teacher", icon_pack = "fas", name = "Book a tutoring session on Wyzant", link = "https://www.wyzant.com/Tutors/MA/Northampton/9756796/"},
+  {icon = "youtube", icon_pack = "fab", name = "Watch my YouTube Videos", link = "https://www.youtube.com/channel/UC18v9_pSrs7AtnDOJYzO_jw/videos"},
 
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
