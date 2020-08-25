@@ -28,6 +28,6 @@
   
   [[main]]
   name = "Code Portfolio"
-  url = "projects/"
+  url = "#projects"
   weight = 80
 
