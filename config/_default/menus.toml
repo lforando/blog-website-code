@@ -25,4 +25,9 @@
   url = "files/resume.pdf"
   weight = 60
   
+  
+  [[main]]
+  name = "Code Portfolio"
+  url = "projects/"
+  weight = 80
 
