@@ -76,7 +76,7 @@ subtitle = ""
 +++
 
 **R Coding Examples**
-1. Classification & Regression Trees 
+1. Classification & Regression Trees {{% staticref "files/Classification & Regression Trees.pdf" %}}Download my code{{% /staticref %}}
 2. 
 3. 
 
