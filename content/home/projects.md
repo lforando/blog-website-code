@@ -75,4 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
-hello
+**R Coding Examples**
+1. Classification & Regression Trees 
+2. 
+3. 
+
