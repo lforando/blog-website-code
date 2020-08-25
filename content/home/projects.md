@@ -79,4 +79,9 @@ subtitle = ""
 1. Classification & Regression Trees -> {{% staticref "files/CRT.zip" %}}Download my code{{% /staticref %}}
 2. 
 3. 
+4.
+
+**Python Examples**
+1.
+2.
 
