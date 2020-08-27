@@ -77,7 +77,7 @@ subtitle = ""
 
 **R Coding Examples**
 1. Classification & Regression Trees -> {{% staticref "files/CRT.zip" %}}Download my code{{% /staticref %}}
-2. 
+2. {{% staticref "files/Random-Forests.html" %}}Random Forests{{% /staticref %}}
 3. 
 4.
 
