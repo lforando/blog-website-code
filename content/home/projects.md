@@ -82,6 +82,6 @@ subtitle = ""
 4. {{% staticref "files/Babynames.html" %}}Baby Names Graphic{{% /staticref %}}
 
 **Python Examples**
-1.
-2.
+1. {{% staticref "files/Magic8Ball.py" %}}Magic 8 Ball{{% /staticref %}}
+2. {{% staticref "files/PlaylistCode.py" %}}User Based Playlist{{% /staticref %}}
 
