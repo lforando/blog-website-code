@@ -79,7 +79,7 @@ subtitle = ""
 1. {{% staticref "files/CRT.html" %}}Classification & Regression Trees{{% /staticref %}}
 2. {{% staticref "files/Random-Forests.html" %}}Random Forests{{% /staticref %}}
 3. {{% staticref "files/Multiple_Regressions_Project.html" %}}Multiple Regressions Project{{% /staticref %}}
-4.
+4. {{% staticref "files/Babynames.html" %}}Baby Names Graphic{{% /staticref %}}
 
 **Python Examples**
 1.
