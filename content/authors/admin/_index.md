@@ -32,10 +32,6 @@ social:
   icon_pack: fab
   link: https://www.youtube.com/channel/UC18v9_pSrs7AtnDOJYzO_jw
 superuser: true
-- icon: music
-  icon_pack: fas
-  link: https://wozq919.wixsite.com/wozq
-superuser: true
 
 title: Lauren Forando
 ---
