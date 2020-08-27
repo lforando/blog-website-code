@@ -78,7 +78,7 @@ subtitle = ""
 **R Coding Examples**
 1. {{% staticref "files/CRT.html" %}}Classification & Regression Trees{{% /staticref %}}
 2. {{% staticref "files/Random-Forests.html" %}}Random Forests{{% /staticref %}}
-3. 
+3. {{% staticref "files/Multiple_Regressions_Project.html" %}}Multiple Regressions Project{{% /staticref %}}
 4.
 
 **Python Examples**
