@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 date: " "
-draft: false  
+draft: true  
 featured: false 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/ieic5Tq8YMk)'
@@ -24,9 +24,13 @@ Welcome to my website! I am so excited to share this project with you. I origina
 On this site you will find:
 
 ⭐ links to podcasts
+
 ⭐ interviews with data scientists, engineers, mathematicians, and computer scientists
+
 ⭐ blog posts relating to the many application areas data science can be applied to
+
 ⭐ advice from current and recently graduated college students in the field
+
 ⭐ videos covering content in statistics, R code, and much more
 
 I hope you enjoy this website and find it informative and beneficial. If there is a specific topic you would like to be covered, submit a blog post, ask a question, or leave a comment in general, please feel free to contact us.
