@@ -18,7 +18,7 @@
 [[main]]
   name = "Coding Playlist"
   url = "https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=re3FM6LSRT6udGMF2HQ81g"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Contact"
@@ -30,9 +30,12 @@
   url = "files/resume.pdf"
   weight = 60
   
-  
-  [[main]]
+[[main]]
   name = "Code Portfolio"
   url = "#projects"
   weight = 80
 
+[[main]]
+  name = "Free Resources"
+  url = "books_landing/"
+  weight = 90

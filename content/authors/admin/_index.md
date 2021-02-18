@@ -17,6 +17,12 @@ interests:
 - Female Representation in Tech
 - Artificial Intelligence
 - Privacy Ethics
+Relevant Courses:
+- **************************
+- **************************
+- **************************
+- **************************
+- **************************
 organizations:
 - name: Smith College
   url: ""
