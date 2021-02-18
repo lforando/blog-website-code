@@ -12,4 +12,3 @@ subtitle = ""
 	<iframe frameborder="0" id="youtube" src="https://www.youtube.com/embed/2RJtDc5HjDQ" title="YouTube video player" width="430" height="241" class="graphic"></iframe>
 </div>
 
-
