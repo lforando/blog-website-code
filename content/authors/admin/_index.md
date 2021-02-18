@@ -18,11 +18,7 @@ interests:
 - Artificial Intelligence
 - Privacy Ethics
 Relevant Courses:
-- **************************
-- **************************
-- **************************
-- **************************
-- **************************
+- Introduction to Data Science
 organizations:
 - name: Smith College
   url: ""
