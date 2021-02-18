@@ -41,16 +41,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Actively work with students of all ages on areas of statistics, R coding, and research papers."""
   
-  [[experience]]
+[[experience]]
   title = "Teaching Assistant and Peer Tutor"
   company = "Smith College"
-  company_url = ""
+  company_url = " "
   location = ""
   date_start = "2019-09-07"
   date_end = "2021-05-14"
-  description = """
-  
-  Teaching Assistant for the following courses:
+  description = """Teaching Assistant for the following courses:
     * PSY 100 - Introductory Psychology
     * PSY 201 - Introduction to Statistical Methods
     * SDS 192 - Introduction to Data Sciences
@@ -58,7 +56,7 @@ date_format = "Jan 2006"
     * SDS 293 - Modeling for Machine Learning
   """
   
-  [[experience]]
+[[experience]]
   title = "Research Assistant"
   company = "Smith College"
   company_url = ""
