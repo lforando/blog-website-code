@@ -14,6 +14,10 @@
   #name = "Meet the Team"
   #url = "#people"
   #weight = 30
+#[[main]]
+ # name = "Coding Playlist"
+ # url = "video_landing/"
+ # weight = 20
 
 [[main]]
   name = "Contact"

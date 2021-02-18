@@ -40,30 +40,5 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = """Actively work with students of all ages on areas of statistics, R coding, and research papers."""
-  
-[[experience]]
-  title = "Teaching Assistant and Peer Tutor"
-  company = "Smith College"
-  company_url = " "
-  location = ""
-  date_start = "2019-09-07"
-  date_end = "2021-05-14"
-  description = """Teaching Assistant for the following courses:
-    * PSY 100 - Introductory Psychology
-    * PSY 201 - Introduction to Statistical Methods
-    * SDS 192 - Introduction to Data Sciences
-    * SDS 291 - Multiple Regressions
-    * SDS 293 - Modeling for Machine Learning
-  """
-  
-[[experience]]
-  title = "Research Assistant"
-  company = "Smith College"
-  company_url = ""
-  location = ""
-  date_start = "2018-05-00"
-  date_end = ""
-  description = """One of two undergraduate research assistants responsible for biological data research, collection, and analysis for the Smith College School for Social Work. This included identifying and reading background literature, pilot testing questionnaires and biological measures, developing a written research protocol, facilitating the collection of continuous heart rate data and saliva samples, processing the biological measures electronically and in a wet lab (i.e., salivary assays), and running computations through the data analytic program R.
-    """
 
 +++
