@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Teaching Assistant and Peer Tutor"
   company = "Smith College"
-  company_url = " "
+  company_url = ""
   location = ""
   date_start = "2019-09-07"
   date_end = ""

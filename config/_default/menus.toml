@@ -14,10 +14,11 @@
   #name = "Meet the Team"
   #url = "#people"
   #weight = 30
-#[[main]]
- # name = "Coding Playlist"
- # url = "video_landing/"
- # weight = 20
+  
+[[main]]
+  name = "Coding Playlist"
+  url = "https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=re3FM6LSRT6udGMF2HQ81g"
+  weight = 20
 
 [[main]]
   name = "Contact"
