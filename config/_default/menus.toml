@@ -36,6 +36,6 @@
   weight = 80
 
 [[main]]
-  name = "Free Resources"
-  url = "content/books_landing/"
+  name = "Resources"
+  url = "resource_landing/"
   weight = 90
