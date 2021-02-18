@@ -48,13 +48,14 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-09-07"
   date_end = "2021-05-14"
-  description = """Teaching Assistant for the following courses:
+  description = """
+  Teaching Assistant for the following courses:
   
-    * PSY 100 - Introductory Psychology
-    * PSY 201 - Introduction to Statistical Methods
-    * SDS 192 - Introduction to Data Sciences
-    * SDS 291 - Multiple Regressions
-    * SDS 293 - Modeling for Machine Learning
+     PSY 100 - Introductory Psychology
+     PSY 201 - Introduction to Statistical Methods
+     SDS 192 - Introduction to Data Sciences
+     SDS 291 - Multiple Regressions
+     SDS 293 - Modeling for Machine Learning
     
   """
 +++
