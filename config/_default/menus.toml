@@ -35,7 +35,7 @@
   url = "#projects"
   weight = 80
 
-[[main]]
-  name = "Resources"
-  url = "resource_landing/"
-  weight = 90
+#[[main]]
+ # name = "Resources"
+ # url = "resource_landing/"
+ # weight = 90
